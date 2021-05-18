@@ -13,7 +13,7 @@ let crewMassKg = Number(astronautCount) * averageAstronautMassKg;
 let fuelMassKg = 760000;
 let shuttleMassKg = 74842.31;
 let totalMassKg =	crewMassKg + fuelMassKg + shuttleMassKg;
-let fuelTempCelsius =	-225;
+let fuelTempCelsius = -225;
 let fuelLevel = 1 * 100 + "%";
 let weatherStatus = "clear";
 
