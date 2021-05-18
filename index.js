@@ -16,6 +16,7 @@ let totalMassKg = crewMassKg + fuelMassKg + shuttleMassKg;
 let fuelTempCelsius = -225;
 let fuelLevel = 1 * 100 + "%";
 let weatherStatus = "clear";
+let clearForTakeOff = "YES";
 
 
 
@@ -55,7 +56,7 @@ Time: ${time}
 -------------------------------------
 > OVERALL STATUS
 -------------------------------------
-* Clear for takeoff: YES`);
+* Clear for takeoff: ${clearForTakeOff}`);
 
 
 
