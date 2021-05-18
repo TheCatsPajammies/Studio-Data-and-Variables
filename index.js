@@ -1,7 +1,7 @@
 // FORK this starter file and save it to your own Repl.it account.
 
 
-// Declare and initialize the 12 variablesm here:
+// Declare and initialize the 12 variables here:
 const howManyAstronauts = require('readline-sync');
 
 let date = "Monday 2019-03-18";
